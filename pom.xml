@@ -4,8 +4,8 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.example</groupId>
-    <artifactId>smbj-test</artifactId>
+    <groupId>com.sg.testapps</groupId>
+    <artifactId>smb-dfs-app</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
